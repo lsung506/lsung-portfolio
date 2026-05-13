@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         src: logoUrl,
         alt: 'Ovidius logo'
     },
-    title: 'Ovidius',
+    title: 'Lsung',
     description: 'Astro.js and Tailwind CSS theme for blogging by justgoodui.com',
     image: {
         src: defaultSocial,
@@ -57,24 +57,14 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Go to GitHub repo',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme',
-            icon: 'github'
-        },
-        {
             text: 'Follow on Instagram',
-            href: 'https://instagram.com/',
+            href: 'https://www.instagram.com/lsung90/',
             icon: 'instagram'
-        },
-        {
-            text: 'Follow on Bluesky',
-            href: 'https://bsky.app/profile/justgoodui.com',
-            icon: 'bluesky'
         }
     ],
     hero: {
-        title: 'Hi there!',
-        text: "My name is Justin Case. I'm a freelance front-end developer, author and speaker based in Austin, TX. It's nice to meet you.",
+        title: '임성민',
+        text: "안녕하세요, 끊임없이 성장하는 웹퍼블리셔 임성민입니다. 저는 사용자를 위한 직관적이고 즐거운 웹 경험을 만드는 일에 열정을 가지고 있습니다. 새로운 기술을 배우고, 그것으로 문제를 해결하는 과정에서 큰 보람을 느낍니다",
         avatar: {
             src: heroAvatar,
             alt: 'Justin Case'

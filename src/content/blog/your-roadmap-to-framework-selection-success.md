@@ -1,15 +1,15 @@
 ---
-title: Your Roadmap to Framework Selection Success
+title: SMTOWN 리뉴얼(반응형)
 excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
 publishDate: 'Sep 15 2025'
 featureImage:
-  src: '../../assets/images/post-5.jpg'
+  src: '../../assets/images/smtown1.png'
   alt: Stairs
   caption: Looking up the lighthouse stairs from the ground floor
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-5.jpg'
+    src: '../../assets/images/smtown1.png'
 ---
 
 **Choosing the right framework** for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice. Here's a step-by-step guide on how to choose the right framework for your web project.
