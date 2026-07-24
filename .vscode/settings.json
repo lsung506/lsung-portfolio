@@ -1,14 +1,22 @@
 {
-    "tailwindCSS.classAttributes": ["class", "className", "class:list"],
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "class:list"
+    ],
     "files.associations": {
         "*.css": "tailwindcss"
     },
-    "prettier.documentSelectors": ["**/*.astro"],
+    "prettier.documentSelectors": [
+        "**/*.astro"
+    ],
     "[astro]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": ["source.organizeImports"],
+    "editor.codeActionsOnSave": [
+        "source.organizeImports"
+    ],
     "typescript.tsdk": "node_modules/typescript/lib"
 }
