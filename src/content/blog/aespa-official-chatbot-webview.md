@@ -14,7 +14,7 @@ May 03, 2021 ~ May 07, 2021
 
 ## 기여도(100%)
 ## 기술 스텍
-HTML / CSS / JavaScript / Jquery /<br/>
+HTML / CSS / JavaScript / Jquery / Vue.js<br/>
 
 터치 슬라이드 메뉴 제작(네이버 모바일 메뉴형식)<br/>
 
