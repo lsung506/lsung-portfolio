@@ -28,4 +28,5 @@
         content: '';
         margin-top: 1.375em;
     }
+    .shrink-0 a{width:160px;height:160px;overflow:hidden;display:block}
 }
